@@ -1,6 +1,6 @@
 
 # One Second A Day
-In this project, you will be designing a simple app for 1 second video recording. The app is used by people who like to maintain a video journal. 
+In this project, you will be designing a simple app for [1 second video recording](https://www.youtube.com/watch?v=bQxAYAo6sn4). The app is used by people who like to maintain a video journal. 
 
 The idea is very similar to an app called [Daily Snap](https://apps.apple.com/us/app/daily-snap-video-diary/id1208338212). You can find it on the App Store to get a better understanding of the app idea. 
 
@@ -13,7 +13,7 @@ We recommend looking at our [current apps](https://apps.apple.com/us/developer/a
 
 [Journal X](https://apps.apple.com/us/app/journal-x-diary-with-lock/id1360257373) and [Timesheet X](https://apps.apple.com/us/app/timesheet-x-track-work-hours/id1466196878) are really well designed apps and it will help you to make designs consistent with our app’s design. 
 
-**Moreover, please refer to [Daily Snap](https://apps.apple.com/us/app/daily-snap-video-diary/id1208338212) to understand the app idea only. It is a common mistake to make a clone of Daily Snap with little tweeks **
+**Moreover, please refer to [Daily Snap](https://apps.apple.com/us/app/daily-snap-video-diary/id1208338212) to understand the app idea only. It is a common mistake to make a clone of Daily Snap or some other competior with little tweeks **
 
 ## Requirements 
 You just need to design a camera, calendar, and combine features. You may decide to mix all three of them into one single screen or have separate screens for each of them. It’s totally up to you on how you plan to implement the UI/UX of One Second a Day.
